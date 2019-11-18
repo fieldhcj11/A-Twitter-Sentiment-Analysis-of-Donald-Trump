@@ -37,4 +37,6 @@ price volatility, measured by:
    4) A number of retweets, which I decided to omit as a source of 'impactful' tweets
    
    5) Using LSA, and simple EDA on my original training set, the amount of themes there were across almost four years                of tweets from the President, importantly including the run-up to the election, made my model incredibly                      difficult to train. If this had been a multi-classification clustering problem (which in the future may be of                  interest) then I would have tried to sperate 'impactful' tweets pre-election and post-election. I wanted to                    keep the model simple, so I removed any 'significant' market moving tweets prior to 2018.
+   
+### Navigate your way through the repository:
 
