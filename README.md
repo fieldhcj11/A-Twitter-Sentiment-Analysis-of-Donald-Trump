@@ -1,6 +1,8 @@
 # Data Science Capstone Project - A Twitter Sentiment Analysis of Donald Trump
 
-The following was completed during the last four weeks of my Data Science Immersive course at General Assembly.
+## The following was completed during the last four weeks of my Data Science Immersive course at General Assembly.
+
+---
 
 Aim:
    
