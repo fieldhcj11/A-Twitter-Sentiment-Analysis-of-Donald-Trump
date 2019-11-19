@@ -1,4 +1,4 @@
-### EDA & Merge
+# EDA & Merge
 
 ---
 
@@ -11,4 +11,6 @@ Before merging, I removed any timestamps where the volume of trades in the S&P f
 
 ### Binary Explanatory Variable: Market Moving Tweet
 
-How did I define whether a tweet was market moving? This was tricky, and was heavily investigated after how poor my original recall score was. There were so many different themese in my original training set; the Crooked Hilary and New Hampshire rallies of 2016 in the same training data as China's trade tariff commentary and Jerome Powell
+How did I define whether a tweet was market moving? This was tricky, and was heavily investigated after how poor my original recall score was. There were so many different themese in my original training set; the Crooked Hilary and New Hampshire rallies of 2016 in the same training data as China's trade tariff commentary and complaints surrounding Jerome Powell's Fed decisions (or lack of).
+
+At this point, I took some advice off the JP Morgan Trump 'Volfefe' study refernced here
