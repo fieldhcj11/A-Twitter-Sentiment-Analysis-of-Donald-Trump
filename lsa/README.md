@@ -12,7 +12,7 @@ There were two reasons for this:
   1) Original results - see here(link to powerpoint) page 17 for original results
   2) The figures below and the amount of explained variance in the first 100 words that was concerning.
 
-![Original](link-to-image)
+![Original](https://github.com/fieldhcj11/A-Twitter-Sentiment-Analysis-of-Donald-Trump/blob/master/lsa/Screenshot%202019-11-27%20at%2014.41.44.png)
 
 ![Updated](link-to-image)
 
