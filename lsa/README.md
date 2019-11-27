@@ -10,7 +10,11 @@ At this point, I took some advice off the JP Morgan Trump 'Volfefe' study refern
 
 There were two reasons for this:
   1) Original results - see here(link to powerpoint) page 17 for original results
-  2) The figures here(LINK TO PICTURES) and the amount of explained variance in the first 100 words that was concerning.
+  2) The figures below and the amount of explained variance in the first 100 words that was concerning.
+
+![Original](link-to-image)
+
+![Updated](link-to-image)
 
 Eventually, I set the threshold based on a training set of 120 tweets, where the first 100 words explained 80% of the significant market tweets, rather than X.
 
