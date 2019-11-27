@@ -14,7 +14,7 @@ There were two reasons for this:
 
 ![Original](https://github.com/fieldhcj11/A-Twitter-Sentiment-Analysis-of-Donald-Trump/blob/master/lsa/Screenshot%202019-11-27%20at%2014.41.44.png)
 
-![Updated](link-to-image)
+![Updated](https://github.com/fieldhcj11/A-Twitter-Sentiment-Analysis-of-Donald-Trump/blob/master/lsa/Screenshot%202019-11-27%20at%2014.41.53.png)
 
 Eventually, I set the threshold based on a training set of 120 tweets, where the first 100 words explained 80% of the significant market tweets, rather than X.
 
