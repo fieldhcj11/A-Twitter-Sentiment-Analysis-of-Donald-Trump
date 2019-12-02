@@ -1,4 +1,6 @@
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px"># Data Science Capstone Project - A Twitter Sentiment Analysis of Donald Trump
+<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 2px; height: 5px"> 
+
+# Data Science Capstone Project - A Twitter Sentiment Analysis of Donald Trump
 
 #### The following was completed during the last four weeks of my Data Science Immersive course at General Assembly.
 
